@@ -127,13 +127,13 @@ const createBuiltWith = builtWith =>{
 
 // creates screenshot section
 const createScreenshots = screenshotItem => { 
-  let allTechnologies = '';
+  let allScreenshots = '';
 
   if (screenshotItem) {
     screenshotItem.forEach(item => {
-          allTechnologies +=  `![A user clicks on slots on the color-coded calendar and edits the events](./${item})\n\n`;
+      allScreenshots +=  `![A user clicks on slots on the color-coded calendar and edits the events](./assets/${item})\n\n`;
       });
-      return `${allTechnologies}`;
+      return `${allScreenshots}`;
   } else {
       return '';
   };

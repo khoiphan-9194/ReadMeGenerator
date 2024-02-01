@@ -1,4 +1,4 @@
-# README.md generator
+# readme generator
   ![badge](https://img.shields.io/badge/languages-HTML,JavaScript,Node.js-yellow)
   <br> 
   ![badge](https://img.shields.io/github/issues/khoiphan-9194/ReadMeGenerator)
@@ -21,15 +21,15 @@
   
 ## Description 
   
-this application will generate a professional README based on questions
+will generate a readme file based on questions
   
 ## Installation 
   
-user should clone the repository from github and download Node,
+na
   
 ## Usage 
   
-this application ultilizes inquirer.prompt
+node index.js
 
 ## Language Built
 
@@ -39,24 +39,24 @@ this application ultilizes inquirer.prompt
   
 ## Contributing 
   
-respository
+idk
 
 ## Screenshots 
 
-![A user clicks on slots on the color-coded calendar and edits the events](./1.JPG)
+![A user clicks on slots on the color-coded calendar and edits the events](./assets/1.JPG)
 
-![A user clicks on slots on the color-coded calendar and edits the events](./2.jpg)
+![A user clicks on slots on the color-coded calendar and edits the events](./assets/2.jpg)
 
-![A user clicks on slots on the color-coded calendar and edits the events](./3.jpg)
+![A user clicks on slots on the color-coded calendar and edits the events](./assets/3.jpg)
 
 
   
 ## License
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
-README.md generator © is licensed under the MIT license.  
+readme generator © is licensed under the MIT license.  
 
-For more information regarding the README.md generator's license, please visit: 
+For more information regarding the readme generator's license, please visit: 
 https://opensource.org/licenses/MIT
 
   
