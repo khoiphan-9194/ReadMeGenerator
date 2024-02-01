@@ -43,11 +43,11 @@ respository
 
 ## Screenshots 
 
-![A user clicks on slots on the color-coded calendar and edits the events](./1.JPG)
+![A user clicks on slots on the color-coded calendar and edits the events](./assets/1.JPG)
 
-![A user clicks on slots on the color-coded calendar and edits the events](./2.jpg)
+![A user clicks on slots on the color-coded calendar and edits the events](./assets/2.jpg)
 
-![A user clicks on slots on the color-coded calendar and edits the events](./3.jpg)
+![A user clicks on slots on the color-coded calendar and edits the events](./assets/3.jpg)
 
 
   
