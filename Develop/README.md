@@ -21,15 +21,16 @@
   
 ## Description 
   
-will generate a readme file based on questions
+readme
   
 ## Installation 
   
-na
+npm install
   
 ## Usage 
   
-node index.js
+n/a
+<img src="utils/readme-demo.gif"><br>
 
 ## Language Built
 
@@ -39,15 +40,13 @@ node index.js
   
 ## Contributing 
   
-idk
+n/a
 
 ## Screenshots 
 
 ![A user clicks on slots on the color-coded calendar and edits the events](./assets/1.JPG)
 
 ![A user clicks on slots on the color-coded calendar and edits the events](./assets/2.jpg)
-
-![A user clicks on slots on the color-coded calendar and edits the events](./assets/3.jpg)
 
 
   
@@ -64,4 +63,4 @@ https://opensource.org/licenses/MIT
   
 ### Github:[khoiphan-9194](https://github.com/khoiphan-9194)
   
-### Reach Me Via Email: phanminhkhoi91@gmail.com
+### Reach Me Via Email: phanminhkho91@gmail.com

@@ -76,6 +76,7 @@ ${data.installation}
 ## Usage 
   
 ${data.usage}
+<img src="utils/readme-demo.gif"><br>
 
 ## Language Built
 ${createBuiltWith(data.languageBuilt)}
